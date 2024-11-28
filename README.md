@@ -1,4 +1,4 @@
 # Arajnish-notes-helps
 my first repository.
 <br>
-Author - ARajnish
+Author - Anmol Rajnish (ARajnish)
