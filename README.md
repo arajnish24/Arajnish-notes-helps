@@ -1,2 +1,3 @@
 # Arajnish-notes-helps
-my first repository
+my first repository.
+Author - ARajnish
